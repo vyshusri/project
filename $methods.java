@@ -24,4 +24,5 @@ public static void all(int a,int b){
     System.out.println("Product"+Product);
     System.out.println("Module"+Module);
 }
+
 }
