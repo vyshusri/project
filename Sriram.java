@@ -4,5 +4,5 @@ public class Sriram{
         System.out.println("RAM:8.00 GB");
         System.out.print("Display:17.02");
         System.out.println("model:gsdh");
-             }
+    }
 }
